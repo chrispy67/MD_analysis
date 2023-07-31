@@ -1,0 +1,3 @@
+This is a small collection of files that have been used to analyze trajectory data from molecular dynamics simulations. Project worked with Marlo Zorman and other Pfaendtner Research Group members.
+
+There are also some helpful scripts for managing datasets that were helpful when curating large datasets for reweighting. The file 'mbar.py' was provided by Tucker Burgin as a standalone script from https://atesa.readthedocs.io/en/latest/ 
